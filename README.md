@@ -15,35 +15,6 @@ This page provides a structured overview of the public software resources availa
 
 This page is intended to help developers quickly find the right starting point depending on their **RZ device family**, **software stack**, and **development workflow**.
 
----
-
-## Quick Links
-
-### Official RZ / MPU Entry Points
-- [RZ 32 & 64-Bit MPUs](https://www.renesas.com/en/products/microcontrollers-microprocessors/rz-mpus)
-- [RZ Flexible Software Package (FSP)](https://www.renesas.com/en/software-tool/rz-flexible-software-package-fsp)
-- [RZ FSP Documentation](https://renesas.github.io/rz-fsp/)
-- [RZ MPU Software Package / Linux Solutions](https://www.renesas.com/en/products/microcontrollers-microprocessors/rz-mpus/rzg-series/verified-linux-package)
-
-### Core Public GitHub Repositories
-- [renesas/rz-fsp](https://github.com/renesas/rz-fsp)
-- [renesas/rz-fsp-examples](https://github.com/renesas/rz-fsp-examples)
-- [renesas-rz organization](https://github.com/renesas-rz)
-
-### Releases
-- [RZ FSP Releases](https://github.com/renesas/rz-fsp/releases)
-- [RZ FSP Example Releases](https://github.com/renesas/rz-fsp-examples/releases)
-
-### Linux / BSP / SDK Entry Points
-- [Renesas RZ Linux Solutions](https://renesas-rz.github.io/rz_solution/)
-- [Renesas RZ Linux Solutions – News & Updates](https://renesas-rz.github.io/rz_solution/history/)
-- [Renesas RZ Linux Solutions – Knowledge Base](https://renesas-rz.github.io/rz_solution/knowledge_base/)
-
-### Support and Tools
-- [Renesas Support](https://www.renesas.com/support)
-- https://www.renesas.com/e2studio
-
----
 
 ## Overview
 
